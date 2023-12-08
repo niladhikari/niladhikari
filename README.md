@@ -9,6 +9,7 @@ Skills:  REACT/Express JS / JS / HTML / CSS
 - 🙇 I have knowledge about C Programming, Java, and Shell Script.
 - 💞️ I have experience in HTML, CSS, JavaScript,React.
 
+### programming languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,materialui,react)](https://skillicons.dev)
 
