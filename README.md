@@ -8,3 +8,16 @@ Skills:  REACT/Express JS / JS / HTML / CSS
 - 🌱 I’m currently learning Next-Js.
 - 🙇 I have knowledge about C Programming, Java, and Shell Script.
 - 💞️ I have experience in HTML, CSS, JavaScript,React.
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,materialui,react)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niladhikari)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=niladhikari&show_icons=true&count_private=true)  
+
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=niladhikari)  
+
+ 
+  
